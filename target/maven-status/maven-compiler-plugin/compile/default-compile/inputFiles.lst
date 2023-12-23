@@ -1,0 +1,14 @@
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/repository/BankRepository.java
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/entity/Bank.java
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/security/JwtFilter.java
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/service/AuthRequest.java
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/config/SwaggerConfiguration.java
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/entity/UserInfo.java
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/controller/BankController.java
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/security/SecurityConfig.java
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/repository/UserInfoRepository.java
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/security/UserInfoUserDetailsService.java
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/security/UserInfoUserDetails.java
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/service/CorsFilter.java
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/BanksecurityApplication.java
+/home/test/Documents/sts tasks/banksecurity/src/main/java/com/oasys/banksecurity/service/JwtService.java
